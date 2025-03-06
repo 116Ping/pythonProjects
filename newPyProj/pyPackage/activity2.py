@@ -1,0 +1,5 @@
+print("CCCCC\t\tOOOOO\t\tDDDDD\t\tEEEEE")
+print("C    \t\tO   O\t\tD    D\t\tE")
+print("C    \t\tO   O\t\tD     D\t\tEEE")
+print("C    \t\tO   O\t\tD    D\t\tE")
+print("CCCCC\t\tOOOOO\t\tDDDDD\t\tEEEEE")
